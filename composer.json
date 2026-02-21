@@ -1,0 +1,32 @@
+{
+  "name": "zhihe/primary-posts",
+  "description": "Mark posts as primary content for serialized stories and multi-chapter discussions",
+  "type": "flarum-extension",
+  "keywords": ["flarum", "extension", "serialized", "stories"],
+  "homepage": "https://github.com/echolocked/zhihe-primary-posts",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/echolocked/zhihe-primary-posts/issues",
+    "source": "https://github.com/echolocked/zhihe-primary-posts"
+  },
+  "require": {
+    "flarum/core": "^1.8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Zhihe\\PrimaryPosts\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Primary Posts",
+      "category": "feature",
+      "icon": {
+        "name": "fas fa-bookmark",
+        "color": "#3498db"
+      }
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
