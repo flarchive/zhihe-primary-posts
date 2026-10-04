@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of zhihe/primary-posts.** Not for installation: use [Packagist](https://packagist.org/packages/zhihe/primary-posts) or the [upstream repository](https://github.com/echolocked/zhihe-primary-posts).
 
-**0** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/zhihe-primary-posts/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^1.8.0`
+**5** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/zhihe-primary-posts/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-07-31 | `^1.8.0` | [Browse](https://github.com/flarchive/zhihe-primary-posts/tree/archive/v1.0.0) |
+| `v1.0.1` | 2025-08-01 | `^1.8.0` | [Browse](https://github.com/flarchive/zhihe-primary-posts/tree/archive/v1.0.1) |
+| `v1.0.2` | 2025-08-01 | `^1.8.0` | [Browse](https://github.com/flarchive/zhihe-primary-posts/tree/archive/v1.0.2) |
+| `v1.0.3` | 2025-08-02 | `^1.8.0` | [Browse](https://github.com/flarchive/zhihe-primary-posts/tree/archive/v1.0.3) |
+| `v1.0.4` | 2026-02-21 | `^1.8.0` | [Browse](https://github.com/flarchive/zhihe-primary-posts/tree/archive/v1.0.4) |
 
 Catalog entry: [packages/zhihe-primary-posts.json](https://github.com/flarchive/archive-index/blob/main/packages/zhihe-primary-posts.json)
 
